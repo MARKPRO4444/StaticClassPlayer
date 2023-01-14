@@ -1,0 +1,8 @@
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\bin\Debug\StaticClassPlayer.exe.config
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\bin\Debug\StaticClassPlayer.exe
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\bin\Debug\StaticClassPlayer.pdb
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\obj\Debug\StaticClassPlayer.csproj.AssemblyReference.cache
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\obj\Debug\StaticClassPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\obj\Debug\StaticClassPlayer.csproj.CoreCompileInputs.cache
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\obj\Debug\StaticClassPlayer.exe
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\StaticClassPlayer\obj\Debug\StaticClassPlayer.pdb

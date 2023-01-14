@@ -1,0 +1,8 @@
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\bin\Debug\Task_04.exe.config
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\bin\Debug\Task_04.exe
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\bin\Debug\Task_04.pdb
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\obj\Debug\Task_04.csproj.AssemblyReference.cache
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\obj\Debug\Task_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\obj\Debug\Task_04.csproj.CoreCompileInputs.cache
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\obj\Debug\Task_04.exe
+C:\Users\markusiygmail.com\source\repos\StaticClassPlayer\Task_04\obj\Debug\Task_04.pdb
